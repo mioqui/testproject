@@ -1,1 +1,2 @@
-print("Hello world")
+def imprimir():
+    print("Hello world")
